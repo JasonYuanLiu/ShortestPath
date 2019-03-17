@@ -11,6 +11,7 @@ To find the path, run "STLParser.jar" first. Then run "dijkstra". (Only the 64 b
 Note that this program cannot be used to calculate the exact shortest path or its length. The the length of the path will always be overestimated, and will not converge to the length of the actual shortest path regardless of the precision of the triangulation. It should be used for visualization purpose only. The function of calculating the exact shortest path is being worked on. 
 
 "stlread.m" is the work of Copyright (c) 2011, Eric Johnson
+
 "csvimport.m" is the work of Copyright (c) 2008, Ashish Sadanandan
 
 This program is under the MIT License. 
